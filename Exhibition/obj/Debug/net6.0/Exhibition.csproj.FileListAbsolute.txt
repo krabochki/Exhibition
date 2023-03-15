@@ -1,0 +1,15 @@
+C:\Users\Paulina\Desktop\Exhibition\Exhibition\Exhibition\bin\Debug\net6.0\Exhibition.exe
+C:\Users\Paulina\Desktop\Exhibition\Exhibition\Exhibition\bin\Debug\net6.0\Exhibition.deps.json
+C:\Users\Paulina\Desktop\Exhibition\Exhibition\Exhibition\bin\Debug\net6.0\Exhibition.runtimeconfig.json
+C:\Users\Paulina\Desktop\Exhibition\Exhibition\Exhibition\bin\Debug\net6.0\Exhibition.dll
+C:\Users\Paulina\Desktop\Exhibition\Exhibition\Exhibition\bin\Debug\net6.0\Exhibition.pdb
+C:\Users\Paulina\Desktop\Exhibition\Exhibition\Exhibition\obj\Debug\net6.0\Exhibition.csproj.AssemblyReference.cache
+C:\Users\Paulina\Desktop\Exhibition\Exhibition\Exhibition\obj\Debug\net6.0\Exhibition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulina\Desktop\Exhibition\Exhibition\Exhibition\obj\Debug\net6.0\Exhibition.AssemblyInfoInputs.cache
+C:\Users\Paulina\Desktop\Exhibition\Exhibition\Exhibition\obj\Debug\net6.0\Exhibition.AssemblyInfo.cs
+C:\Users\Paulina\Desktop\Exhibition\Exhibition\Exhibition\obj\Debug\net6.0\Exhibition.csproj.CoreCompileInputs.cache
+C:\Users\Paulina\Desktop\Exhibition\Exhibition\Exhibition\obj\Debug\net6.0\Exhibition.dll
+C:\Users\Paulina\Desktop\Exhibition\Exhibition\Exhibition\obj\Debug\net6.0\refint\Exhibition.dll
+C:\Users\Paulina\Desktop\Exhibition\Exhibition\Exhibition\obj\Debug\net6.0\Exhibition.pdb
+C:\Users\Paulina\Desktop\Exhibition\Exhibition\Exhibition\obj\Debug\net6.0\Exhibition.genruntimeconfig.cache
+C:\Users\Paulina\Desktop\Exhibition\Exhibition\Exhibition\obj\Debug\net6.0\ref\Exhibition.dll
